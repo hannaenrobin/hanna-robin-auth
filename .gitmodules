@@ -1,0 +1,6 @@
+[submodule "hannarobin.github.io"]
+	path = hannarobin.github.io
+	url = git@github.com:hannarobin/hannarobin.github.io.git
+[submodule "jekyll-auth"]
+	path = jekyll-auth
+	url = git@github.com:benbalter/jekyll-auth.git
